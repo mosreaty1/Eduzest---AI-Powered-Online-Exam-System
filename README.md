@@ -1,4 +1,4 @@
-# Eduzest---AI-Powered-Online-Exam-System
+# Eduzest---AI-Powered-Online-Exam-System (with software Design)
 # Eduzest - AI-Powered Online Exam System (Java/MongoDB Edition) 🚀
 
 ![Java](https://img.shields.io/badge/Java-17-blue)
